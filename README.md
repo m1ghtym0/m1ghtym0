@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **m1ghtym0/m1ghtym0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me:
+- 👋 Hi, I'm Moritz
+- ✨ Washed up hacker, engineer, coffeenerd, cyclist
+- 🌍 Erlangen, DE
+- 🛠 Cybersecurity, Cloudsecurity, CloudNative, and Confidential Computing
+- 💞️ Building great products with better teams
+- 💼 Edgeless Systems
+- 📫 Contact me on: [twitter](https://twitter.com/m1ghtymo) · [linkedin](https://www.linkedin.com/in/eckert-moritz/)
