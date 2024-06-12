@@ -18,6 +18,5 @@ About me:
 - ✨ Washed up hacker, engineer, coffeenerd, cyclist
 - 🌍 Erlangen, DE
 - 🛠 Cybersecurity, Cloud, and Confidential Computing
-- 💞️ Building efficient products
 - 💼 Edgeless Systems
 - 📫 Contact me on: [twitter](https://twitter.com/m1ghtymo) · [linkedin](https://www.linkedin.com/in/eckert-moritz/)
